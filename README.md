@@ -1,9 +1,9 @@
-### 📄 `README.md`
-```markdown
-# PG Promotion Website
+# 📄 `README.md`
+
+## PG Promotion Website
 
 A modern and responsive promotional website for PG (Paying Guest) accommodations built using **ReactJS**. This project serves as a simple, customizable front-end solution to showcase PG listings, facilities, and contact details.
-```
+
 
 ---
 
@@ -56,7 +56,7 @@ PG_Promotion_Website/
 
 ---
 
-# React + Vite
+## React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
@@ -85,4 +85,3 @@ See [`LICENSE`](./LICENSE) for full details.
 ## 📫 Contact
 
 For questions, feedback, or collaborations, feel free to reach out via GitHub issues or pull requests.
-```
